@@ -12,7 +12,7 @@ The Python analysis helped me move from raw numerical data towards meaningful bu
 
 # 1. Data Exploration
 
-exploration.png
+[exploration.png]
 
 ## Explanation
 
