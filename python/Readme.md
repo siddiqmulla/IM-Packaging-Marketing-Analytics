@@ -11,8 +11,7 @@ The Python analysis helped me move from raw numerical data towards meaningful bu
 ---
 
 # 1. Data Exploration
-
-[exploration.png]
+![Data Exploration](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/exploration.png)
 
 ## Explanation
 
@@ -32,7 +31,7 @@ For a business such as IM Packaging, where marketing activities generate enquiri
 
 # 2. Data Cleaning and Validation
 
-![Data Cleaning](02_Data_Cleaning.png)
+![Data Cleaning and Validation](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Cleaning%20and%20validation%20no%20null%20and%20duplicate.png)
 
 ## Explanation
 
@@ -52,7 +51,7 @@ Good-quality marketing data is important because management decisions may depend
 
 # 3. City-Wise Analysis
 
-![City Wise Analysis](03_City_Wise_Analysis.png)
+![City Wise Analysis](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/python/Screenshots/03_City_Wise_Analysis.png)
 
 ## Explanation
 
@@ -72,7 +71,7 @@ The city-wise analysis can help IM Packaging make better decisions about geograp
 
 # 4. Social Media Platform Analysis
 
-![Social Media Platform Analysis](04_Social_Media_Platform_Analysis.png)
+![Social Media Platform Analysis](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Social%20media%20plateform%20analysis.png)
 
 ## Explanation
 
@@ -92,7 +91,7 @@ This comparison provides a simple way for the marketing team to evaluate the rel
 
 # 5. Correlation Analysis
 
-![Correlation Analysis](05_Correlation_Analysis.png)
+![Correlation Analysis](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Corelation%20analysis.png)
 
 ## Explanation
 
@@ -118,7 +117,7 @@ For IM Packaging, the result highlights the importance of looking beyond the amo
 
 # 6. Linear Regression
 
-![Linear Regression](06_Linear_Regression.png)
+![Linear Regression](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Linear%20Regression.png)
 
 ## Explanation
 
@@ -146,7 +145,7 @@ For future campaign planning, IM Packaging should consider multiple marketing in
 
 # 7. Decision Tree Analysis
 
-![Decision Tree](07_Decision_Tree.png)
+![Decision Tree](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Desicion%20tree.png)
 
 ## Explanation
 
@@ -172,7 +171,7 @@ The analysis can support campaign planning by helping the marketing team conside
 
 # 8. Feature Importance Analysis
 
-![Feature Importance](08_Feature_Importance.png)
+![Feature Importance](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Feature%20importance.png)
 
 ## Explanation
 
@@ -196,7 +195,7 @@ For IM Packaging, this finding suggests that marketing activities should not be 
 
 # 9. A/B Testing
 
-![A/B Testing](09_AB_Testing.png)
+![A/B Testing](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/AB%20testing.png)
 
 ## Explanation
 
@@ -224,7 +223,7 @@ A/B testing can help IM Packaging make marketing decisions based on actual campa
 
 # 10. Model Comparison
 
-![Model Comparison](10_Model_Comparison.png)
+![Model Comparison](https://github.com/siddiqmulla/IM-Packaging-Marketing-Analytics/blob/main/python/Screenshots/Comparison.png)
 
 ## Explanation
 
@@ -252,9 +251,6 @@ For future analytical work, IM Packaging can use a multi-variable predictive app
 
 # 11. Prediction Result
 
-![Prediction Result](11_Prediction_Result.png)
-
-## Explanation
 
 The Decision Tree model was also used to demonstrate how predictive analytics could be applied to a future campaign scenario.
 
